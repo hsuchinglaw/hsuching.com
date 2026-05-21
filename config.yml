@@ -64,9 +64,9 @@ params:
               url: podcast/
 
 
-socialIcons:
-        - name: Email
-          url: mailto:hsu.cc@mail.ntue.edu.tw
+          socialIcons:
+            - name: Email
+              url: mailto:hsu.cc@mail.ntue.edu.tw        
 
     assets:
         disableScrollBarStyle: true
