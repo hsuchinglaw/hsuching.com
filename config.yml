@@ -54,7 +54,7 @@ params:
           enabled: true
           title: 徐筱菁｜文化、教育與法律札記
           subtitle: "Notes on Culture, Education & Law"
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
